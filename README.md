@@ -5,7 +5,8 @@
 
  ## Technology Which I Used
    ***Backend***
-   
+
+ - REST API
  - Nodejs
  - Mongodb
  - Express
@@ -35,3 +36,5 @@
 
 **For setup runnin**
 `Setting config.env file on config folder`
+
+
