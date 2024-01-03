@@ -11,7 +11,7 @@
  - Mongodb
  - Express
  - Some tweaks (ex: jwt, CLOUDINARY, STRIPE, SMTP )
- ***Frontend***
+   ***Frontend***
  
  
  - React Js
