@@ -4,16 +4,16 @@
 
 
  ## Technology Which I Used
-   ***Backend***
+   ***Back-end***
 
  - REST API
  - Nodejs
  - Mongodb
  - Express
  - Some tweaks (ex: jwt, CLOUDINARY, STRIPE, SMTP )
-   ***Frontend***
- 
- 
+
+   ***Front-end***
+   
  - React Js
  - Redux
 
